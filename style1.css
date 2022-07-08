@@ -177,3 +177,21 @@ header{
 .img-sec3, .img-sec4, .img-sec5, .img-sec6{
     width: 100%;
 }
+
+.sec-7{
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.sec7-row{
+    width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        overflow: hidden;
+}
+
+.img-sec7{
+    width: 100%;
+}
